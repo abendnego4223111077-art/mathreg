@@ -4,7 +4,7 @@
     "builder": "RAILPACK",
     "buildEnvironment": "V3",
     "env": {
-      "RAILPACK_PHP_VERSION": "8.2"
+      "RAILPACK_PHP_VERSION": "8.3"
     }
   },
   "deploy": {
