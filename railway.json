@@ -8,6 +8,6 @@
     }
   },
   "deploy": {
-    "startCommand": "php artisan serve --host=mysql.railway.internal --port=3306",
+    "startCommand": "php artisan config:cache && php artisan optimize"
   }
 }
