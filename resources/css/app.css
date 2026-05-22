@@ -1,0 +1,9 @@
+.objective-item-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.objective-item-group .objective-item {
+    width: 48%; /* Adjust as needed */
+}
